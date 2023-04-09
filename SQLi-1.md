@@ -1,8 +1,4 @@
-# Best online news portal v1.0 has SQL injection
-
 BUG_Author:PEOIzEve
-
-Website source address:https://www.sourcecodester.com/php/16067/best-online-news-portal-project-php-free-download.html
 
 Vulnerability File: /101news/admin/forgot-password.php
 
